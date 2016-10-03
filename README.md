@@ -2,7 +2,7 @@
 
 - ##How to install
 
-	- ####配置环境
+	- ###配置环境
 		- 开始的时候先为安装DOL配置必要的环境，在linux环境下的命令行中输入以下指令
 	
 		```
@@ -11,14 +11,14 @@
 			$sudo apt-get install openjdk-7-jdk
 			$sudo apt-get install unzip
 		```
-	- ####解压文件
+	- ###解压文件
 		- 用mkdir新建一个文件夹dol文件夹存放文件
 				$mkdir dol
 		- 解压压缩包中的dolethz.zip与systemc
 				$unzip dol_ethz.zip d dol
 				$tar -zxvf systemc-2.3.1.tgz
 				
-	- ####编译systemc
+	- ###编译systemc
 		- 解压后进入systemc-2.3.1的目录下
 				$cd systemc-2.3.1
 		- 新建一个临时文件夹objdir
@@ -39,7 +39,7 @@
 		- 记录当前路径
 				$pwd
 				
-	- ####编译dol
+	- ###编译dol
 		- 打开dol文件夹中的build_zip.xml,找到如下这段话，将YYY改成上述pwd的路径
 				<property name="systemc.inc" value="YYY/include"/>
 				<property name="systemc.lib" value="YYY/lib-linux/libsystemc.a"/>
@@ -53,6 +53,6 @@
 				$ant -f runexample.xml -Dnumber=1
 		- 成功结果如图
 		
-			<div align= center>![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/1.png)</div>
+			    <div align= center>![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/1.png)</div>
 
 - ##Experimental experience
