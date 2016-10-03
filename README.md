@@ -28,6 +28,7 @@
 		- 运行configure(能根据系统的环境设置一下参数，用于编译)
 				$../configure CXX=g++ --disable-async-updates
 		- 运行结果如下
+		
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/4.png)
 		- 编译
 				$sudo make install
@@ -35,6 +36,7 @@
 				$cd ..        
 				$ls
 		- 编译完后文件目录如下
+		
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/5.png)
 		- 记录当前路径
 				$pwd
@@ -46,6 +48,7 @@
 		-然后是编译
 				$ant -f build_zip.xml all
 		- 若成功会显示build successful
+		
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/3.png)
 		- 接着可以进入build/bin/mian路径下试试运行第一个例子
 				$cd build/bin/main
@@ -53,6 +56,6 @@
 				$ant -f runexample.xml -Dnumber=1
 		- 成功结果如图
 		
-			    <div align= center>![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/1.png)</div>
+		![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/1.png)
 
 - ##Experimental experience
