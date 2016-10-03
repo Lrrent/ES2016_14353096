@@ -53,8 +53,6 @@
 				$ant -f runexample.xml -Dnumber=1
 		- 成功结果如图
 		
-			<div align= center>
-			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/1.png)
-			</div>
+			<div align= center>![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/1.png)</div>
 
 - ##Experimental experience
