@@ -20,10 +20,12 @@
 
 	- ####example1
 		根据文档提供的内容，我们只需要修改在square.c中的内容，并且明显里面的i=i&#42;i是控制平方的，所以如果我们想要实现三次方只需要改成i=i&#42;i&#42;i
+		
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/image3.png)
 		
 	- ####example2
 		可以看到迭代次数是由一个叫做N的变量所决定的，并且这个变量的赋值是在代码开头，如果我们想要实现迭代两次，只需要将其值从3改到2便能实现
+		
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/image4.png)
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/image5.png)
 		
