@@ -3,7 +3,7 @@
 	- ####dot截图
 	
 		- #####example1
-			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot1.png =100)
+			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot1.png =100*100)
 			
 		- #####example2
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot2.png =100)
