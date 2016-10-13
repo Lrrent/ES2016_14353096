@@ -3,7 +3,7 @@
 	- ####dot截图
 	
 		- #####example1
-			<img src="https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot1.png" width="50%",height="50%">
+			<div align="center"><img src="https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot1.png" width="50%",height="50%"></div>
 			
 		- #####example2
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot2.png =100)
