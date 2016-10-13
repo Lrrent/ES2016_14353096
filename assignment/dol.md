@@ -3,8 +3,8 @@
 	- ####dot截图
 	
 		- #####example1
-			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot1.png =100x100)
-			<img src="https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot1.png" width="100px">
+			<img src="https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot1.png" width="50%",height="50%">
+			
 		- #####example2
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot2.png =100)
 			
