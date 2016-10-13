@@ -1,14 +1,18 @@
 - ##实验截图
 
 	- ####dot截图
+	
 		- #####example1
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot1.png)
+			
 		- #####example2
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot2.png)
 			
 	- ####结果截图
+	
 		- #####example1
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/image1.png)
+			
 		- #####example2
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/image2.png)
 			
