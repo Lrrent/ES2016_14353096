@@ -4,7 +4,7 @@
 	
 		- #####example1
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot1.png =100x100)
-			
+			<img src="https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot1.png" width="100px">
 		- #####example2
 			![](https://github.com/Izumisakai/ES2016_14353096/blob/master/image/dot2.png =100)
 			
